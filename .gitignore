@@ -1,0 +1,17 @@
+# Godot
+.import/
+.export/
+.cache/
+*.translation
+*.import
+*.tmp
+*.cfg
+*.log
+*.stex
+*.ctex
+*.imported
+.editor_settings-4.tres
+
+# OS-filer
+.DS_Store
+Thumbs.db
