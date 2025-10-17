@@ -6,3 +6,5 @@ res://scripts/player.gd
 res://scenes/plattform.tscn
 res://scenes/coin.tscn
 res://scripts/coin.gd
+res://scenes/kill_zone.tscn
+res://scripts/kill_zone.gd
