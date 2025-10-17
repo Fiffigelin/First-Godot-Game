@@ -1,8 +1,9 @@
+Node
+Label
 RayCast2D
 CollisionShape2D
 AnimatedSprite2D
 Node2D
-Node
 TileMapLayer
 Timer
 Area2D
@@ -11,5 +12,3 @@ AnimationPlayer
 AnimatableBody2D
 TileMap
 StaticBody2D
-Camera2D
-CharacterBody2D
