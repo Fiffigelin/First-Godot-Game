@@ -10,3 +10,4 @@ res://scenes/kill_zone.tscn
 res://scripts/kill_zone.gd
 res://scenes/slime.tscn
 res://scripts/slime.gd
+res://scripts/game_manager.gd
